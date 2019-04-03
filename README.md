@@ -8,6 +8,6 @@ Documentation
 
 Trello: https://trello.com/b/1l1Al2YX/rightperson
 
-Mockup: https://app.moqups.com/fXvpbCDUPw/edit/page/aa9df7b72
+Mockup: https://wireframe.cc/oEBEN5
 
 Documents: https://drive.google.com/drive/folders/146uCEYE_FC_vhw1BbRWB56vOE3pFDk_s?usp=sharing
